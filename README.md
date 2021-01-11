@@ -35,6 +35,7 @@ Property | Type | Description
 **id** | *string* | ID attribute of button element.
 **className** | *string* | Class attribute of button element.
 **buttonText** | *string* | Button text.
+**autoDownload** | *boolean* | Download after rendering the component.
 
 
 ## Example
