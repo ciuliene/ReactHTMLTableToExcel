@@ -12,7 +12,7 @@ ___
 ## Installation
 
 ```
-npm install --save react-html-table-to-excel
+npm install --save react-html-to-excel
 ```
 
 ## Features
